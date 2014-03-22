@@ -1,0 +1,8 @@
+# comments start with `#`, end with new line.
+# variables can only be one char in size. Cannot be `#` or `>`
+a = 2
+b = a
+b + 3
+
+# `>` says print this variable. It will only print a variable, nothing else.
+> b
